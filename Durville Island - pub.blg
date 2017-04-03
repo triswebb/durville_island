@@ -1,0 +1,117 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Durville Island - pub.aux
+The style file: newapa.bst
+Database file #1: ref.bib
+Warning--entry type for "CliFlo" isn't style-file defined
+--line 1 of file ref.bib
+Repeated entry---line 209 of file ref.bib
+ : @article{Perry2012
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 322 of file ref.bib
+ : @article{Perry2012a
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 740 of file ref.bib
+ : @article{McGlone1999
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 757 of file ref.bib
+ : @article{Wardle2001
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 773 of file ref.bib
+ : @article{McGlone1999
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2094 of file ref.bib
+ : @article{wilmshurst1997impact
+ :                              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2134 of file ref.bib
+ :  
+ :  volume = {34},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2201 of file ref.bib
+ : @book{moore1991pollen
+ :                      ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2529 of file ref.bib
+ :  pages=193
+ :           --227}
+I'm skipping whatever remains of this entry
+Repeated entry---line 2532 of file ref.bib
+ : @article{beever1989new
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2673 of file ref.bib
+ : @article{gaertner2014invasive
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2845 of file ref.bib
+ : @article{Perry2012
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2878 of file ref.bib
+ : @article{Wilmshurst2014
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2908 of file ref.bib
+ : @article{haslett2008simple
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2956 of file ref.bib
+ : @book{whitlock2002charcoal
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--empty organization in rioja
+You can't pop an empty literal stack for entry mcglone1992nino
+while executing---line 1459 of file newapa.bst
+Warning--empty journal in vegan
+You can't pop an empty literal stack for entry vegan
+while executing---line 1459 of file newapa.bst
+Warning--empty journal in Perry2016
+You've used 80 entries,
+            2708 wiz_defined-function locations,
+            1084 strings with 20567 characters,
+and the built_in function-call counts, 39726 in all, are:
+= -- 3545
+> -- 2169
+< -- 41
++ -- 838
+- -- 826
+* -- 4088
+:= -- 7791
+add.period$ -- 243
+call.type$ -- 80
+change.case$ -- 743
+chr.to.int$ -- 80
+cite$ -- 83
+duplicate$ -- 1268
+empty$ -- 2295
+format.name$ -- 940
+if$ -- 6970
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 84
+newline$ -- 404
+num.names$ -- 322
+pop$ -- 524
+preamble$ -- 1
+purify$ -- 834
+quote$ -- 0
+skip$ -- 880
+stack$ -- 0
+substring$ -- 2497
+swap$ -- 313
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 462
+warning$ -- 3
+while$ -- 365
+width$ -- 0
+write$ -- 1033
+(There were 17 error messages)
